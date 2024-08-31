@@ -20,7 +20,7 @@ To run this project on your local machine, follow these steps:
 
 1. Clone the repository
     ```
-    $ git clone https://github.com/divyagupta2002/scratch-that-mlp.git
+    $ git clone https://github.com/sauravkr21/image-classification_ML
     ```
 
 2. Navigate to the cloned repository
@@ -46,4 +46,4 @@ If you would like to contribute to Scratch That MLP, feel free to submit a pull 
 
 ## Contact
 
-If you have any questions or feedback, please don't hesitate to reach out to me at divyagupta20@iitk.ac.in. I would love to hear from you!
+If you have any questions or feedback, please don't hesitate to reach out to me at kumarsaurav3575@gmail.com. I would love to hear from you!
